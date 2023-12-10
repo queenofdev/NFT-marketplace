@@ -41,7 +41,7 @@
 A decentralized application (dapp) marketplace built on the Goerli testnet using the Ethereum blockchain. The marketplace allows users to list, buy and sell Non-Fungible Tokens (NFTs). The marketplace also includes a feature to mint a new NFT from the "Ethereal" collection for 0.01ETH, to test the marketplace functionality.
 
 Test the dApp here: [NFT Marketplace](https://frontend-marketplace-nfts.vercel.app/)
-Check the frontend repo here: [Frontend repository](https://github.com/vinhtranchau/nft-marketplace-frontend)
+Check the frontend repo here: [Frontend repository](https://github.com/queenofdev/NFT-marketplace/client)
 <br />
 <p align="center">
   <img src="NFTMarketplace.png" alt="Dapp Marketplace Screenshot"/>
@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple example steps.
 Clone the repo
 
 ```sh
-git clone https://github.com/vinhtranchau/nft-marketplace.git
+git clone https://github.com/queenofdev/NFT-marketplace.git
 ```
 
 Install package dependencies using yarn
@@ -96,9 +96,8 @@ Please note that this marketplace is built on the Goerli testnet and any transac
 <!-- CONTACT -->
 
 ## Contact
-Project Link: [https://github.com/vinhtranchau/nft-marketplace-backend](https://github.com/vinhtranchau/nft-marketplace-backend)
+Project Link: [https://github.com/queenofdev/NFT-marketplace](https://github.com/vinhtranchau/nft-marketplace-backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/julien-bourseau-ba2239228
+
